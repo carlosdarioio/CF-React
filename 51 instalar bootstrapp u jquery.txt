@@ -1,0 +1,5 @@
+abrir cmd
+ir a dir
+poner
+npm install bootstrap --save
+npm install jquery --save

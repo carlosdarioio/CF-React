@@ -1,0 +1,15 @@
+1Crear proyecto
+
+abrir cmd
+
+ir a dir
+
+poner
+npx create-react-app nombre
+
+
+-para ejecutar app
+ir a dir
+
+poner
+npm start
