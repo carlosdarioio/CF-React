@@ -3,3 +3,4 @@ ir a dir
 poner
 npm install bootstrap --save
 npm install jquery --save
+npm install popper.js --save
