@@ -14,5 +14,8 @@ ir a dir
 poner
 npm start
 
+
 ----
 racfce = cuerpo inicial
+
+npm run test = ejecutar pruebas

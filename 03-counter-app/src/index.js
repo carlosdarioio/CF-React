@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import PrimeraApp from "./PrimeraApp";
+//import PrimeraApp from "./PrimeraApp";
 import CounterApp from "./CounterApp";
 import "./index.css";
 
@@ -12,4 +12,4 @@ console.log(divRoot);
 //document.body.append(saludo); con js
 //ReactDOM.render(<PrimeraApp saludo="Hola Soy Veget" />, divRoot); //con React!!
 //5.
-ReactDOM.render(<CounterApp value={33} />, divRoot);
+ReactDOM.render(<CounterApp value={33} />, divRoot); //value={33}

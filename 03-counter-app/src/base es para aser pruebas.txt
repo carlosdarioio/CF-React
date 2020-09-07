@@ -1,0 +1,10 @@
+para ejecutarlo poner
+
+npm run test
+
+cada ves qu egiardas se ejecutan lo stest
+
+--------------
+
+tutorial/guide de test:
+https://jestjs.io/
