@@ -1,0 +1,15 @@
+abrir cmd
+ir a dir
+
+crear proyecto
+nombre: 04-GIF-EXPERT-APP
+
+crear componente GifExpertApp
+
+ejecutar npm start
+
+
+
+JW5RHdEiHauCMWh3smC12Ux7Eovp7XD1
+
+desabilitar JSHint y js-css-html formatter

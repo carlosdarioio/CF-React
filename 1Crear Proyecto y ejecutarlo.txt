@@ -8,11 +8,16 @@ poner
 npx create-react-app nombre
 
 
+en visual studio desabilitar JSHint y js-css-html formatter
+
+
 -para ejecutar app
 ir a dir
 
 poner
 npm start
+
+
 
 
 ----
